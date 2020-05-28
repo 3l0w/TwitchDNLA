@@ -1,0 +1,49 @@
+<resources>
+    <string name="MediaSelectTitle">Select media</string>
+    <string name="MediaSelectTwitchButton">Load from Twitch</string>
+    <string name="OK">OK</string>
+    <string name="TwitchChannelEntry">Enter here twitch channel</string>
+    <string name="app_name">TwitchDNLA</string>
+    <string name="cancel">Cancel</string>
+    <string name="deviceDetails">deviceDetails</string>
+    <string name="deviceDetailsNotYetAvailable">deviceDetailsNotYetAvailable</string>
+    <string name="disablingDebugLogging">disablingDebugLogging</string>
+    <string name="disablingRouter">disablingRouter</string>
+    <string name="enablingDebugLogging">enablingDebugLogging</string>
+    <string name="enablingRouter">disablingRouter</string>
+    <string name="errorSwitchingRouter">errorSwitchingRouter</string>
+    <string name="noDevice">not connected</string>
+    <string name="playpause">play</string>
+    <string name="searchLAN">searchLAN</string>
+    <string name="searchingLAN">searchingLAN</string>
+    <string name="seekBackward">Backward</string>
+    <string name="seekForward">Forward</string>
+    <string name="startCast">Load</string>
+    <string name="stopCast">stop</string>
+    <string name="switchRouter">switchRouter</string>
+    <string name="title">Select device</string>
+    <string name="title_activity_select_media">SelectMediaActivity</string>
+    <string name="toggleDebugLogging">toogle degug loogging</string>
+    <string name="valid">Valid</string>
+    <string name="YoutubeURLEntry">Enter here Youtube URL</string>
+    <string name="MediaSelectYoutubeButton">Load from Youtube</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="twitch_dnla">Twitch DNLA</string>
+
+    <style name="open">Open</style>
+    <style name="close">Close</style>
+</resources>
